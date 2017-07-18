@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "Learning to count with RNNs"
 excerpt: "RNNs are good at learning sequence. What is the first sequence that we learnt? um ah A B C D.. na 1 2 3 4..."
-date:   2017-07-18 01:07:00
+date:   2017-07-19 01:07:00
 ---
 
 **Recurrent neural nets**. Today RNNs are doing amazing tasks. They achieve the state-of-the-art in many applications. I always wondered how they work. But now after some reading and some coding, they appear super simple. In this blog, we will implement a vanilla RNN in tensorflow and also gain some insights on its working. If you are not very sure about RNNs, [this](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) is an excellent blog by Andrej Karpathy. Also [this](https://www.youtube.com/watch?v=yCC09vCHzF8) video lecture is awesome.
